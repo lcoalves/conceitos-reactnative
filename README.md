@@ -53,13 +53,16 @@ Next open the code
 $> code .
 ```
 
-#### Front-end
-Start front-end service
+#### Mobile
+Start Mobile service
 ```
-$> yarn start
+$> react-native run-android
+```
+```
+$> react-native start
 ```
 
-#### Front-end (Running TESTS)
+#### Mobile (Running TESTS)
 Run
 ```
 $> yarn test
@@ -80,5 +83,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* React
+* React Native
 * Jest
